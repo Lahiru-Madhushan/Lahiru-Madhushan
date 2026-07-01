@@ -104,13 +104,7 @@ I enjoy solving real-world problems through data, algorithms, and modern softwar
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lahiru-Madhushan&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
 
 # 🌱 Currently Learning
 
