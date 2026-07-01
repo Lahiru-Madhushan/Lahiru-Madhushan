@@ -90,18 +90,16 @@ I enjoy solving real-world problems through data, algorithms, and modern softwar
 
 # 📈 GitHub Statistics
 
+
+
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lahiru-Madhushan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahiru-Madhushan&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lahiru-Madhushan&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahiru-Madhushan&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahiru-Madhushan&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Lahiru-Madhushan&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -109,9 +107,7 @@ I enjoy solving real-world problems through data, algorithms, and modern softwar
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lahiru-Madhushan&theme=algolia&margin-w=10&margin-h=10"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Lahiru-Madhushan&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
