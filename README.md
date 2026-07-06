@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # Hi 👋, I'm D.K.L. Madhushan Dimbulpitiya
@@ -79,7 +79,6 @@ I enjoy solving real-world problems through data, algorithms, and modern softwar
 <p>
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LlamaIndex-8E44AD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ChromaDB-5A31F4?style=for-the-badge"/>
 </p>
 
@@ -151,8 +150,7 @@ I enjoy solving real-world problems through data, algorithms, and modern softwar
 
 - Agentic AI
 - Multi-Agent Systems
-- n8n AI Automation
-- LangGraph
+- diffy AI Automation
 - LlamaIndex
 - MCP (Model Context Protocol)
 - MLOps
@@ -183,4 +181,4 @@ I enjoy solving real-world problems through data, algorithms, and modern softwar
 ### ⭐ *"Building intelligent solutions that create real-world impact through AI."*
 
 </div>
-```
+
